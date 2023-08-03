@@ -11,5 +11,6 @@ Hey there, this is Mukund Gohil. I have made a Hotel Management GUI using Python
 
 ## Screenshots
 
+![img1](https://github.com/gohilmukund123/Hotel-Management/assets/114324098/5f882f67-9999-4f42-bcab-d01a7f7aa60c)
 
-
+https://github.com/gohilmukund123/Hotel-Management/assets/114324098/9ce72e6d-83c3-4bbf-832b-b804ef96c521
